@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "分类",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "mysearch": "/components/mysearch/mysearch"
+  }
+}
